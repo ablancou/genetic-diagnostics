@@ -1,0 +1,399 @@
+Order ID,Lab,Report Date,GENE,VARIANT,ZYGOSITY,VARIANT CLASSIFICATION,Result
+RQ5927899,Invitae,,,,,,Negative
+RQ5747768,Invitae,,PHEX,c.1966-1G>A (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ5747749,Invitae,,PHEX,.106Sdel (p Ser356Leufs*37),heterozygous,PATHOGENIC,Positive
+RQ5747749,Invitae,,PHEX,.106Sdel (p Ser356Leufs*37),heterozygous,PATHOGENIC,Positive
+RQ5657420,Invitae,,cyp2781; cyp2781; ENPPI,c.1226C>T (p.Thr40sIle); c.160_16 dup (p.LysS5Alafs*24); c.1030GT (p.Val344Leu),heterozygous; heterozygous; heterozygous,PATHOGENIC; PATHOGENIC; Uncertain Significance,Positive
+RQ5657420,Invitae,,cyp2781; cyp2781; ENPPI,c.1226C>T (p.Thr40sIle); c.160_16 dup (p.LysS5Alafs*24); c.1030GT (p.Val344Leu),heterozygous; heterozygous; heterozygous,PATHOGENIC; PATHOGENIC; Uncertain Significance,Positive
+RQ5631341,Invitae,,,,,,Negative
+RQ5631325,Invitae,,PHEX; ENPP1,.1699C>T (p.Arg567*); c.200G>A (p.Arg67His),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ5631325,Invitae,,PHEX; ENPP1,.1699C>T (p.Arg567*); c.200G>A (p.Arg67His),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ5137031,Invitae,,,,,,Negative
+RQ5137031,Invitae,,,,,,Negative
+RQ5137017,Invitae,,PHEX,c.1875T>G (p-Tyr625*),heterozygous,PATHOGENIC,Positive
+RQ5137017,Invitae,,PHEX,c.1875T>G (p-Tyr625*),heterozygous,PATHOGENIC,Positive
+RQ5137005,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ5099270,Invitae,,PHEX,c.663+1G>T (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ5099112,Invitae,,PHEX,c.663+1G>T (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ5099112,Invitae,,PHEX,c.663+1G>T (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ5065384,Invitae,,PHEX,c.2239C>T (p.Arg747*),heterozygous,PATHOGENIC,Positive
+RQ5065384,Invitae,,PHEX,c.2239C>T (p.Arg747*),heterozygous,PATHOGENIC,Positive
+RQ5065369,Invitae,,,,,,Negative
+RQ5065338,Invitae,,PHEX,c.1822_1823del (p.Glu608Argfs*4),heterozygous,PATHOGENIC,Positive
+RQ5065338,Invitae,,PHEX,c.1822_1823del (p.Glu608Argfs*4),heterozygous,PATHOGENIC,Positive
+RQ4907853,Invitae,,,,,,Negative
+RQ4907846,Invitae,,PHEX,c.1174-2A2G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ4907846,Invitae,,PHEX,c.1174-2A2G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ4907819,Invitae,,PHEX,c.350-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ4907819,Invitae,,PHEX,c.350-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ4907751,Invitae,,,,,,Negative
+RQ4815697,Invitae,,,,,,Negative
+RQ4815592,Invitae,,,,,,Negative
+RQ4746912,Invitae,,PHEX,c.944dup (p.Tyr317Leufs*7),heterozygous,PATHOGENIC,Positive
+RQ4746912,Invitae,,PHEX,c.944dup (p.Tyr317Leufs*7),heterozygous,PATHOGENIC,Positive
+RQ4746092,Invitae,,PHEX,c.1303-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ4746092,Invitae,,PHEX,c.1303-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ4678434,Invitae,,,,,,Negative
+RQ4379847,Invitae,,,,,,Negative
+RQ4359308,Invitae,,,,,,Negative
+RQ4359308,Invitae,,,,,,Negative
+RQ4359292,Invitae,,,,,,Negative
+RQ4359292,Invitae,,,,,,Negative
+RQ4309557,Invitae,,,,,,Negative
+RQ4309546,Invitae,,PHEX,c349+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ4309546,Invitae,,PHEX,c349+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ4309538,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ4309538,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ4309528,Invitae,,PHEX,c914T>C (p.Leu305Pro),heterozygous,Likely Pathogenic,Positive
+RQ4309528,Invitae,,PHEX,c914T>C (p.Leu305Pro),heterozygous,Likely Pathogenic,Positive
+RQ4309523,Invitae,,PHEX,c.1036T>G (p.Tyr346Asp),heterozygous,PATHOGENIC,Positive
+RQ4309523,Invitae,,PHEX,c.1036T>G (p.Tyr346Asp),heterozygous,PATHOGENIC,Positive
+RQ4182754,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ4182754,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ4182726,Invitae,,PHEX,c.2181_2191 del (p.Gin728*),heterozygous,PATHOGENIC,Positive
+RQ4182726,Invitae,,PHEX,c.2181_2191 del (p.Gin728*),heterozygous,PATHOGENIC,Positive
+RQ4152092,Invitae,,,,,,Negative
+RQ4060057,Invitae,,,,,,Negative
+RQ4060035,Invitae,,,,,,Negative
+RQ3972921,Invitae,,PHEX,c.1389_1404del (p.Lys464Argfs*14),heterozygous,PATHOGENIC,Positive
+RQ3972921,Invitae,,PHEX,c.1389_1404del (p.Lys464Argfs*14),heterozygous,PATHOGENIC,Positive
+RQ3972909,Invitae,,PHEX,c.1645+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ3972909,Invitae,,PHEX,c.1645+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ3972891,Invitae,,PHEX,.c58C>T (p.Arg20*),heterozygous,PATHOGENIC,Positive
+RQ3972891,Invitae,,PHEX,.c58C>T (p.Arg20*),heterozygous,PATHOGENIC,Positive
+RQ3916627,Invitae,,,,,,Negative
+RQ3916602,Invitae,,PHEX,c.1283del (p.Gln428Argfs*7),heterozygous,PATHOGENIC,Positive
+RQ3882517,Invitae,,PHEX,Partial Deletion (Exon 7),heterozygous,PATHOGENIC,Positive
+RQ3882517,Invitae,,PHEX,Partial Deletion (Exon 7),heterozygous,PATHOGENIC,Positive
+RQ3882504,Invitae,,PHEX,c.2104C>T (p.Arg702*),heterozygous,PATHOGENIC,Positive
+RQ3872157,Invitae,,PHEX,c.200_201ins? (p.Leu67fs),heterozygous,PATHOGENIC,Positive
+RQ3810808,Invitae,,PHEX,Deletion (Exon 15),heterozygous,PATHOGENIC,Positive
+RQ3763137,Invitae,,,,,,Negative
+RQ3763128,Invitae,,PHEX,.1895T>A (p.Leu632*),heterozygous,PATHOGENIC,Positive
+RQ3763102,Invitae,,PHEX; SLC34A3,Deletion (Exon 1); <.947CoT (p.Thr316Met),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ3681705,Invitae,,,,,,Negative
+RQ3681693,Invitae,,,,,,Negative
+RQ3681668,Invitae,,PHEX,c.2239C>T (p.Arg747*),heterozygous,PATHOGENIC,Positive
+RQ3681652,Invitae,,PHEX,c.1645+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ3637301,Invitae,,PHEX,c.2104C>T (p.Arg702*),heterozygous,PATHOGENIC,Positive
+RQ3162688,Invitae,,FAM20C; PHEX,c.1669G>A (p.Val557Ile); c.1957G>c (p.Ala653Pro),heterozygous; heterozygous,Uncertain Significance; Uncertain Significance,Negative
+RQ3084360,Invitae,,,,,,Negative
+RQ3084358,Invitae,,,,,,Negative
+RQ3074571,Invitae,,PHEX,Partial Deletion (Exon 13),heterozygous,Likely Pathogenic,Positive
+RQ3005710,Invitae,,PHEX; TNS,Deletion (Exons 10-11); c.970G>A (p.Asp324Asn),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ2980345,Invitae,,,,,,Negative
+RQ2948792,Invitae,,PHEX; PHEX,— c.416A>G (p.Tyr139Cys); cAT6A2G (p.Tyr139Cys),heterozygous; heterozygous,_Likely Pathogenic PATHOGENIC; PATHOGENIC,Positive
+RQ2932621,Invitae,,PHEX,c.1700G>c (p.Arg567Pro),heterozygous,PATHOGENIC,Positive
+RQ2843721,Invitae,,,,,,Negative
+RQ2843709,Invitae,,,,,,Negative
+RQ2772778,Invitae,,PHEX,c.1864T>C (p.Tyr622His),heterozygous,Uncertain Significance,Negative
+RQ2641716,Invitae,,,,,,Negative
+RQ2641695,Invitae,,PHEX,c.1586+5G>A (Intronic),heterozygous,PATHOGENIC,Positive
+RQ2641683,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ2641660,Invitae,,PHEX,c.1173+1GeT (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ2595368,Invitae,,,,,,Negative
+RQ2573438,Invitae,,PHEX,.1586_1586+Idel (Splice site),heterozygous,PATHOGENIC,Positive
+RQ2573434,Invitae,,,,,,Negative
+RQ2573429,Invitae,,,,,,Negative
+RQ2573420,Invitae,,PHEX,c.1586+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ2549239,Invitae,,ENPP1,c.165G>A (Silent),heterozygous,Uncertain Significance,Negative
+RQ2549239,Invitae,,ENPPI,—_c.165G>A (Silent),heterozygous,Uncertain Significance Likely Benign,Negative
+RQ2458560,Invitae,,PHEX,c.1699C>T (p.Arg567*),heterozygous,PATHOGENIC,Positive
+RQ2458550,Invitae,,PHEX,c.316del (p.Trp106Glyfs*2),heterozygous,PATHOGENIC,Positive
+RQ2441755,Invitae,,,,,,Negative
+RQ2414476,Invitae,,,,,,Negative
+RQ2390245,Invitae,,,,,,Negative
+RQ2390217,Invitae,,PHEX,Deletion (Exon 14),heterozygous,PATHOGENIC,Positive
+RQ2369005,Invitae,,PHEX; PHEX,— c.416A>G (p.Tyr139Cys); cAT6A2G (p.Tyr139Cys),heterozygous; heterozygous,_Likely Pathogenic PATHOGENIC; PATHOGENIC,Positive
+RQ2357831,Invitae,,PHEX,c. 254G>C (p.Cys85Ser),heterozygous,PATHOGENIC,Positive
+RQ2325951,Invitae,,FGERI,c.1244AG (p.His415Arg),heterozygous,Uncertain Significance,Negative
+RQ2302294,Invitae,,,,,,Negative
+RQ2302283,Invitae,,,,,,Negative
+RQ2006068,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ1960681,Invitae,,PHEX,c.1707_1710dup (p.Tyr571Glufs*12),heterozygous,PATHOGENIC,Positive
+RQ1941400,Invitae,,ENPPI,—_c.165G>A (Silent),heterozygous,Uncertain Significance Likely Benign,Negative
+RQ1879726,Invitae,,PHEX; VoR,c.1645C>T (p.Args49*); c.565C>A (p.His189Asn),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ1827471,Invitae,,PHEX,Partial Deletion (Exon 13),heterozygous,Likely Pathogenic,Positive
+RQ1827459,Invitae,,PHEX,c.1332G>A (p.Trp444*),heterozygous,PATHOGENIC,Positive
+RQ1827445,Invitae,,PHEX,c.1304T>G (p.Met435Arg),heterozygous,Uncertain Significance,Negative
+RQ1827435,Invitae,,PHEX,c.444del (p.Ile148Metfs*73),heterozygous,PATHOGENIC,Positive
+RQ1827424,Invitae,,PHEX,Deletion (Exon 22),hemizygous,PATHOGENIC,Positive
+RQ1827413,Invitae,,PHEX,c.1735G>A (p.Gly579Arg),heterozygous,PATHOGENIC,Positive
+RQ1735334,Invitae,,,,,,Negative
+RQ1720741,Invitae,,PHEX,Partial Deletion (Exon 13),heterozygous,Likely Pathogenic,Positive
+RQ1686096,Invitae,,,,,,Negative
+RQ1686069,Invitae,,PHEX,c.1586+5G>A (Intronic),heterozygous,PATHOGENIC,Positive
+RQ1686063,Invitae,,PHEX,c.871C>T (p.Arg291*),hemizygous,PATHOGENIC,Positive
+RQ1669071,Invitae,,,,,,Negative
+RQ1634868,Invitae,,PHEX,c.1765_1768del (p.Asn589Valfs*29),hemizygous,PATHOGENIC,Positive
+RQ1573947,Invitae,,PHEX,c.2221A>T (p.Arg741*),heterozygous,PATHOGENIC,Positive
+RQ1573944,Invitae,,PHEX; FGFR1,c.58C>T (p.Arg20*); c.193A>C (p.Asn65His),hemizygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ1573939,Invitae,,PHEX,c.1332G>A (p.Trp444*),heterozygous,PATHOGENIC,Positive
+RQ1544301,Invitae,,PHEX; VDR,c.1645C>T (p.Arg549*); c.565C>A (p.His189Asn),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ1527123,Invitae,,PHEX,Deletion (Exon 3),heterozygous,PATHOGENIC,Positive
+RQ1527120,Invitae,,,,,,Negative
+RQ1527114,Invitae,,PHEX,c.1936G>C (p.Asp646His),heterozygous,Likely Pathogenic,Positive
+RQ1500705,Invitae,,PHEX,c.942G>A (p.Trp314*),hemizygous,PATHOGENIC,Positive
+RQ1500681,Invitae,,PHEX,c.2125del (p.Ala709Leufs*31),hemizygous,PATHOGENIC,Positive
+RQ1317989,Invitae,,PHEX,c.1332G>A (p.Trp444*),hemizygous,PATHOGENIC,Positive
+RQ1280251,Invitae,,PHEX; CYP2R1,c.1645+1G>A (Splice donor); c.1120dup (p.Ile374Asnfs*12),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ1280215,Invitae,,PHEX,c.2165_2184dup (p.Lys729Valfs*18),heterozygous,PATHOGENIC,Positive
+RQ1280195,Invitae,,PHEX,c.2182C>T (p.Gln728*),hemizygous,PATHOGENIC,Positive
+RQ1264708,Invitae,,CYP27B1; CYP27B1,c.1226C>T (p.Thr409Ile); c.413G>T (p.Arg138Leu),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ1264691,Invitae,,PHEX,c.1735G>A (p.Gly579Arg),heterozygous,PATHOGENIC,Positive
+RQ1264658,Invitae,,CYP27B1; CYP27B1,c.1226C>T (p.Thr409Ile); c.413G>T (p.Arg138Leu),heterozygous; heterozygous,Likely Pathogenic; Uncertain Significance,Positive
+RQ1224514,Invitae,,,,,,Negative
+RQ1224460,Invitae,,,,,,Negative
+RQ1224417,Invitae,,,,,,Negative
+RQ1137343,Invitae,,PHEX,c.1404+2_1404+6del (Splice donor),hemizygous,PATHOGENIC,Positive
+RQ1137338,Invitae,,,,,,Negative
+RQ1137330,Invitae,,,,,,Negative
+RQ1115069,Invitae,,,,,,Negative
+RQ1115052,Invitae,,,,,,Negative
+=== Duplicados ===,Invitae,,,,,,Unknown
+Descripción,Invitae,,,,,,Unknown
+Order IDs únicos,Invitae,,,,,,Unknown
+Order ID,Invitae,,GENE,VARIANT,ZYGOSITY,VARIANT CLASSIFICATION,Unknown
+RQ5747749,Invitae,,PHEX,.106Sdel (p Ser356Leufs*37),heterozygous,PATHOGENIC,Positive
+RQ5747749,Invitae,,PHEX,.106Sdel (p Ser356Leufs*37),heterozygous,PATHOGENIC,Positive
+RQ5657420,Invitae,,cyp2781; cyp2781; ENPPI,c.1226C>T (p.Thr40sIle); c.160_16 dup (p.LysS5Alafs*24); c.1030GT (p.Val344Leu),heterozygous; heterozygous; heterozygous,PATHOGENIC; PATHOGENIC; Uncertain Significance,Positive
+RQ5657420,Invitae,,cyp2781; cyp2781; ENPPI,c.1226C>T (p.Thr40sIle); c.160_16 dup (p.LysS5Alafs*24); c.1030GT (p.Val344Leu),heterozygous; heterozygous; heterozygous,PATHOGENIC; PATHOGENIC; Uncertain Significance,Positive
+RQ5631325,Invitae,,PHEX; ENPP1,.1699C>T (p.Arg567*); c.200G>A (p.Arg67His),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ5631325,Invitae,,PHEX; ENPP1,.1699C>T (p.Arg567*); c.200G>A (p.Arg67His),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ5137031,Invitae,,,,,,Negative
+RQ5137031,Invitae,,,,,,Negative
+RQ5137017,Invitae,,PHEX,c.1875T>G (p-Tyr625*),heterozygous,PATHOGENIC,Positive
+RQ5137017,Invitae,,PHEX,c.1875T>G (p-Tyr625*),heterozygous,PATHOGENIC,Positive
+RQ5099112,Invitae,,PHEX,c.663+1G>T (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ5099112,Invitae,,PHEX,c.663+1G>T (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ5065384,Invitae,,PHEX,c.2239C>T (p.Arg747*),heterozygous,PATHOGENIC,Positive
+RQ5065384,Invitae,,PHEX,c.2239C>T (p.Arg747*),heterozygous,PATHOGENIC,Positive
+RQ5065338,Invitae,,PHEX,c.1822_1823del (p.Glu608Argfs*4),heterozygous,PATHOGENIC,Positive
+RQ5065338,Invitae,,PHEX,c.1822_1823del (p.Glu608Argfs*4),heterozygous,PATHOGENIC,Positive
+RQ4907846,Invitae,,PHEX,c.1174-2A2G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ4907846,Invitae,,PHEX,c.1174-2A2G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ4907819,Invitae,,PHEX,c.350-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ4907819,Invitae,,PHEX,c.350-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ4746912,Invitae,,PHEX,c.944dup (p.Tyr317Leufs*7),heterozygous,PATHOGENIC,Positive
+RQ4746912,Invitae,,PHEX,c.944dup (p.Tyr317Leufs*7),heterozygous,PATHOGENIC,Positive
+RQ4746092,Invitae,,PHEX,c.1303-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ4746092,Invitae,,PHEX,c.1303-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ4359308,Invitae,,,,,,Negative
+RQ4359308,Invitae,,,,,,Negative
+RQ4359292,Invitae,,,,,,Negative
+RQ4359292,Invitae,,,,,,Negative
+RQ4309546,Invitae,,PHEX,c349+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ4309546,Invitae,,PHEX,c349+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ4309538,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ4309538,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ4309528,Invitae,,PHEX,c914T>C (p.Leu305Pro),heterozygous,Likely Pathogenic,Positive
+RQ4309528,Invitae,,PHEX,c914T>C (p.Leu305Pro),heterozygous,Likely Pathogenic,Positive
+RQ4309523,Invitae,,PHEX,c.1036T>G (p.Tyr346Asp),heterozygous,PATHOGENIC,Positive
+RQ4309523,Invitae,,PHEX,c.1036T>G (p.Tyr346Asp),heterozygous,PATHOGENIC,Positive
+RQ4182754,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ4182754,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ4182726,Invitae,,PHEX,c.2181_2191 del (p.Gin728*),heterozygous,PATHOGENIC,Positive
+RQ4182726,Invitae,,PHEX,c.2181_2191 del (p.Gin728*),heterozygous,PATHOGENIC,Positive
+RQ3972921,Invitae,,PHEX,c.1389_1404del (p.Lys464Argfs*14),heterozygous,PATHOGENIC,Positive
+RQ3972921,Invitae,,PHEX,c.1389_1404del (p.Lys464Argfs*14),heterozygous,PATHOGENIC,Positive
+RQ3972909,Invitae,,PHEX,c.1645+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ3972909,Invitae,,PHEX,c.1645+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ3972891,Invitae,,PHEX,.c58C>T (p.Arg20*),heterozygous,PATHOGENIC,Positive
+RQ3972891,Invitae,,PHEX,.c58C>T (p.Arg20*),heterozygous,PATHOGENIC,Positive
+RQ3882517,Invitae,,PHEX,Partial Deletion (Exon 7),heterozygous,PATHOGENIC,Positive
+RQ3882517,Invitae,,PHEX,Partial Deletion (Exon 7),heterozygous,PATHOGENIC,Positive
+RQ2549239,Invitae,,ENPP1,c.165G>A (Silent),heterozygous,Uncertain Significance,Negative
+RQ2549239,Invitae,,ENPPI,—_c.165G>A (Silent),heterozygous,Uncertain Significance Likely Benign,Negative
+=== Cancelados ===,Invitae,,,,,,Unknown
+Descripción,Invitae,,,,,,Unknown
+Order IDs únicos,Invitae,,,,,,Unknown
+Order ID,Invitae,,GENE,VARIANT,ZYGOSITY,VARIANT CLASSIFICATION,Unknown
+RQ5927899,Invitae,,,,,,Negative
+RQ4907853,Invitae,,,,,,Negative
+RQ4815697,Invitae,,,,,,Negative
+RQ4678434,Invitae,,,,,,Negative
+RQ4379847,Invitae,,,,,,Negative
+RQ4309557,Invitae,,,,,,Negative
+RQ3681705,Invitae,,,,,,Negative
+RQ2390245,Invitae,,,,,,Negative
+RQ1735334,Invitae,,,,,,Negative
+RQ1137338,Invitae,,,,,,Negative
+RQ1137330,Invitae,,,,,,Negative
+RQ1115069,Invitae,,,,,,Negative
+=== Pathogenic_Puros ===,Invitae,,,,,,Unknown
+Descripción,Invitae,,,,,,Unknown
+Order IDs únicos,Invitae,,,,,,Unknown
+Order ID,Invitae,,GENE,VARIANT,ZYGOSITY,VARIANT CLASSIFICATION,Unknown
+RQ5747768,Invitae,,PHEX,c.1966-1G>A (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ5747749,Invitae,,PHEX,.106Sdel (p Ser356Leufs*37),heterozygous,PATHOGENIC,Positive
+RQ5747749,Invitae,,PHEX,.106Sdel (p Ser356Leufs*37),heterozygous,PATHOGENIC,Positive
+RQ5657420,Invitae,,cyp2781; cyp2781; ENPPI,c.1226C>T (p.Thr40sIle); c.160_16 dup (p.LysS5Alafs*24); c.1030GT (p.Val344Leu),heterozygous; heterozygous; heterozygous,PATHOGENIC; PATHOGENIC; Uncertain Significance,Positive
+RQ5657420,Invitae,,cyp2781; cyp2781; ENPPI,c.1226C>T (p.Thr40sIle); c.160_16 dup (p.LysS5Alafs*24); c.1030GT (p.Val344Leu),heterozygous; heterozygous; heterozygous,PATHOGENIC; PATHOGENIC; Uncertain Significance,Positive
+RQ5631325,Invitae,,PHEX; ENPP1,.1699C>T (p.Arg567*); c.200G>A (p.Arg67His),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ5631325,Invitae,,PHEX; ENPP1,.1699C>T (p.Arg567*); c.200G>A (p.Arg67His),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ5137017,Invitae,,PHEX,c.1875T>G (p-Tyr625*),heterozygous,PATHOGENIC,Positive
+RQ5137017,Invitae,,PHEX,c.1875T>G (p-Tyr625*),heterozygous,PATHOGENIC,Positive
+RQ5137005,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ5099270,Invitae,,PHEX,c.663+1G>T (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ5099112,Invitae,,PHEX,c.663+1G>T (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ5099112,Invitae,,PHEX,c.663+1G>T (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ5065384,Invitae,,PHEX,c.2239C>T (p.Arg747*),heterozygous,PATHOGENIC,Positive
+RQ5065384,Invitae,,PHEX,c.2239C>T (p.Arg747*),heterozygous,PATHOGENIC,Positive
+RQ5065338,Invitae,,PHEX,c.1822_1823del (p.Glu608Argfs*4),heterozygous,PATHOGENIC,Positive
+RQ5065338,Invitae,,PHEX,c.1822_1823del (p.Glu608Argfs*4),heterozygous,PATHOGENIC,Positive
+RQ4907846,Invitae,,PHEX,c.1174-2A2G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ4907846,Invitae,,PHEX,c.1174-2A2G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ4907819,Invitae,,PHEX,c.350-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ4907819,Invitae,,PHEX,c.350-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ4746912,Invitae,,PHEX,c.944dup (p.Tyr317Leufs*7),heterozygous,PATHOGENIC,Positive
+RQ4746912,Invitae,,PHEX,c.944dup (p.Tyr317Leufs*7),heterozygous,PATHOGENIC,Positive
+RQ4746092,Invitae,,PHEX,c.1303-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ4746092,Invitae,,PHEX,c.1303-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ4309546,Invitae,,PHEX,c349+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ4309546,Invitae,,PHEX,c349+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ4309538,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ4309538,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ4309523,Invitae,,PHEX,c.1036T>G (p.Tyr346Asp),heterozygous,PATHOGENIC,Positive
+RQ4309523,Invitae,,PHEX,c.1036T>G (p.Tyr346Asp),heterozygous,PATHOGENIC,Positive
+RQ4182754,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ4182754,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ4182726,Invitae,,PHEX,c.2181_2191 del (p.Gin728*),heterozygous,PATHOGENIC,Positive
+RQ4182726,Invitae,,PHEX,c.2181_2191 del (p.Gin728*),heterozygous,PATHOGENIC,Positive
+RQ3972921,Invitae,,PHEX,c.1389_1404del (p.Lys464Argfs*14),heterozygous,PATHOGENIC,Positive
+RQ3972921,Invitae,,PHEX,c.1389_1404del (p.Lys464Argfs*14),heterozygous,PATHOGENIC,Positive
+RQ3972909,Invitae,,PHEX,c.1645+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ3972909,Invitae,,PHEX,c.1645+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ3972891,Invitae,,PHEX,.c58C>T (p.Arg20*),heterozygous,PATHOGENIC,Positive
+RQ3972891,Invitae,,PHEX,.c58C>T (p.Arg20*),heterozygous,PATHOGENIC,Positive
+RQ3916602,Invitae,,PHEX,c.1283del (p.Gln428Argfs*7),heterozygous,PATHOGENIC,Positive
+RQ3882517,Invitae,,PHEX,Partial Deletion (Exon 7),heterozygous,PATHOGENIC,Positive
+RQ3882517,Invitae,,PHEX,Partial Deletion (Exon 7),heterozygous,PATHOGENIC,Positive
+RQ3882504,Invitae,,PHEX,c.2104C>T (p.Arg702*),heterozygous,PATHOGENIC,Positive
+RQ3872157,Invitae,,PHEX,c.200_201ins? (p.Leu67fs),heterozygous,PATHOGENIC,Positive
+RQ3810808,Invitae,,PHEX,Deletion (Exon 15),heterozygous,PATHOGENIC,Positive
+RQ3763128,Invitae,,PHEX,.1895T>A (p.Leu632*),heterozygous,PATHOGENIC,Positive
+RQ3763102,Invitae,,PHEX; SLC34A3,Deletion (Exon 1); <.947CoT (p.Thr316Met),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ3681668,Invitae,,PHEX,c.2239C>T (p.Arg747*),heterozygous,PATHOGENIC,Positive
+RQ3681652,Invitae,,PHEX,c.1645+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ3637301,Invitae,,PHEX,c.2104C>T (p.Arg702*),heterozygous,PATHOGENIC,Positive
+RQ3005710,Invitae,,PHEX; TNS,Deletion (Exons 10-11); c.970G>A (p.Asp324Asn),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ2932621,Invitae,,PHEX,c.1700G>c (p.Arg567Pro),heterozygous,PATHOGENIC,Positive
+RQ2641695,Invitae,,PHEX,c.1586+5G>A (Intronic),heterozygous,PATHOGENIC,Positive
+RQ2641683,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ2641660,Invitae,,PHEX,c.1173+1GeT (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ2573438,Invitae,,PHEX,.1586_1586+Idel (Splice site),heterozygous,PATHOGENIC,Positive
+RQ2573420,Invitae,,PHEX,c.1586+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ2458560,Invitae,,PHEX,c.1699C>T (p.Arg567*),heterozygous,PATHOGENIC,Positive
+RQ2458550,Invitae,,PHEX,c.316del (p.Trp106Glyfs*2),heterozygous,PATHOGENIC,Positive
+RQ2390217,Invitae,,PHEX,Deletion (Exon 14),heterozygous,PATHOGENIC,Positive
+RQ2357831,Invitae,,PHEX,c. 254G>C (p.Cys85Ser),heterozygous,PATHOGENIC,Positive
+RQ2006068,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ1960681,Invitae,,PHEX,c.1707_1710dup (p.Tyr571Glufs*12),heterozygous,PATHOGENIC,Positive
+RQ1879726,Invitae,,PHEX; VoR,c.1645C>T (p.Args49*); c.565C>A (p.His189Asn),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ1827459,Invitae,,PHEX,c.1332G>A (p.Trp444*),heterozygous,PATHOGENIC,Positive
+RQ1827435,Invitae,,PHEX,c.444del (p.Ile148Metfs*73),heterozygous,PATHOGENIC,Positive
+RQ1827424,Invitae,,PHEX,Deletion (Exon 22),hemizygous,PATHOGENIC,Positive
+RQ1827413,Invitae,,PHEX,c.1735G>A (p.Gly579Arg),heterozygous,PATHOGENIC,Positive
+RQ1686069,Invitae,,PHEX,c.1586+5G>A (Intronic),heterozygous,PATHOGENIC,Positive
+RQ1686063,Invitae,,PHEX,c.871C>T (p.Arg291*),hemizygous,PATHOGENIC,Positive
+RQ1634868,Invitae,,PHEX,c.1765_1768del (p.Asn589Valfs*29),hemizygous,PATHOGENIC,Positive
+RQ1573947,Invitae,,PHEX,c.2221A>T (p.Arg741*),heterozygous,PATHOGENIC,Positive
+RQ1573944,Invitae,,PHEX; FGFR1,c.58C>T (p.Arg20*); c.193A>C (p.Asn65His),hemizygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ1573939,Invitae,,PHEX,c.1332G>A (p.Trp444*),heterozygous,PATHOGENIC,Positive
+RQ1544301,Invitae,,PHEX; VDR,c.1645C>T (p.Arg549*); c.565C>A (p.His189Asn),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ1527123,Invitae,,PHEX,Deletion (Exon 3),heterozygous,PATHOGENIC,Positive
+RQ1500705,Invitae,,PHEX,c.942G>A (p.Trp314*),hemizygous,PATHOGENIC,Positive
+RQ1500681,Invitae,,PHEX,c.2125del (p.Ala709Leufs*31),hemizygous,PATHOGENIC,Positive
+RQ1317989,Invitae,,PHEX,c.1332G>A (p.Trp444*),hemizygous,PATHOGENIC,Positive
+RQ1280251,Invitae,,PHEX; CYP2R1,c.1645+1G>A (Splice donor); c.1120dup (p.Ile374Asnfs*12),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ1280215,Invitae,,PHEX,c.2165_2184dup (p.Lys729Valfs*18),heterozygous,PATHOGENIC,Positive
+RQ1280195,Invitae,,PHEX,c.2182C>T (p.Gln728*),hemizygous,PATHOGENIC,Positive
+RQ1264708,Invitae,,CYP27B1; CYP27B1,c.1226C>T (p.Thr409Ile); c.413G>T (p.Arg138Leu),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ1264691,Invitae,,PHEX,c.1735G>A (p.Gly579Arg),heterozygous,PATHOGENIC,Positive
+RQ1137343,Invitae,,PHEX,c.1404+2_1404+6del (Splice donor),hemizygous,PATHOGENIC,Positive
+=== Likely_Pathogenic ===,Invitae,,,,,,Unknown
+Descripción,Invitae,,,,,,Unknown
+Order IDs únicos,Invitae,,,,,,Unknown
+Order ID,Invitae,,GENE,VARIANT,ZYGOSITY,VARIANT CLASSIFICATION,Unknown
+=== Likely_Pathogenic_Pathogenic ===,Invitae,,,,,,Unknown
+Descripción,Invitae,,,,,,Unknown
+Order IDs únicos,Invitae,,,,,,Unknown
+Order ID,Invitae,,GENE,VARIANT,ZYGOSITY,VARIANT CLASSIFICATION,Unknown
+RQ4309528,Invitae,,PHEX,c914T>C (p.Leu305Pro),heterozygous,Likely Pathogenic,Positive
+RQ4309528,Invitae,,PHEX,c914T>C (p.Leu305Pro),heterozygous,Likely Pathogenic,Positive
+RQ3074571,Invitae,,PHEX,Partial Deletion (Exon 13),heterozygous,Likely Pathogenic,Positive
+RQ2948792,Invitae,,PHEX; PHEX,— c.416A>G (p.Tyr139Cys); cAT6A2G (p.Tyr139Cys),heterozygous; heterozygous,_Likely Pathogenic PATHOGENIC; PATHOGENIC,Positive
+RQ2369005,Invitae,,PHEX; PHEX,— c.416A>G (p.Tyr139Cys); cAT6A2G (p.Tyr139Cys),heterozygous; heterozygous,_Likely Pathogenic PATHOGENIC; PATHOGENIC,Positive
+RQ1827471,Invitae,,PHEX,Partial Deletion (Exon 13),heterozygous,Likely Pathogenic,Positive
+RQ1720741,Invitae,,PHEX,Partial Deletion (Exon 13),heterozygous,Likely Pathogenic,Positive
+RQ1527114,Invitae,,PHEX,c.1936G>C (p.Asp646His),heterozygous,Likely Pathogenic,Positive
+RQ1264658,Invitae,,CYP27B1; CYP27B1,c.1226C>T (p.Thr409Ile); c.413G>T (p.Arg138Leu),heterozygous; heterozygous,Likely Pathogenic; Uncertain Significance,Positive
+=== Seleccionados_58 ===,Invitae,,,,,,Unknown
+Descripción,Invitae,,,,,,Unknown
+Order IDs únicos,Invitae,,,,,,Unknown
+Order ID,Invitae,,GENE,VARIANT,ZYGOSITY,VARIANT CLASSIFICATION,Unknown
+RQ5747768,Invitae,,PHEX,c.1966-1G>A (Splice acceptor),heterozygous,PATHOGENIC,Positive
+RQ5137005,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ5099270,Invitae,,PHEX,c.663+1G>T (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ3916602,Invitae,,PHEX,c.1283del (p.Gln428Argfs*7),heterozygous,PATHOGENIC,Positive
+RQ3882504,Invitae,,PHEX,c.2104C>T (p.Arg702*),heterozygous,PATHOGENIC,Positive
+RQ3872157,Invitae,,PHEX,c.200_201ins? (p.Leu67fs),heterozygous,PATHOGENIC,Positive
+RQ3810808,Invitae,,PHEX,Deletion (Exon 15),heterozygous,PATHOGENIC,Positive
+RQ3763128,Invitae,,PHEX,.1895T>A (p.Leu632*),heterozygous,PATHOGENIC,Positive
+RQ3763102,Invitae,,PHEX; SLC34A3,Deletion (Exon 1); <.947CoT (p.Thr316Met),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ3681668,Invitae,,PHEX,c.2239C>T (p.Arg747*),heterozygous,PATHOGENIC,Positive
+RQ3681652,Invitae,,PHEX,c.1645+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ3637301,Invitae,,PHEX,c.2104C>T (p.Arg702*),heterozygous,PATHOGENIC,Positive
+RQ3005710,Invitae,,PHEX; TNS,Deletion (Exons 10-11); c.970G>A (p.Asp324Asn),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ2932621,Invitae,,PHEX,c.1700G>c (p.Arg567Pro),heterozygous,PATHOGENIC,Positive
+RQ2641695,Invitae,,PHEX,c.1586+5G>A (Intronic),heterozygous,PATHOGENIC,Positive
+RQ2641683,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ2641660,Invitae,,PHEX,c.1173+1GeT (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ2573438,Invitae,,PHEX,.1586_1586+Idel (Splice site),heterozygous,PATHOGENIC,Positive
+RQ2573420,Invitae,,PHEX,c.1586+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+RQ2458560,Invitae,,PHEX,c.1699C>T (p.Arg567*),heterozygous,PATHOGENIC,Positive
+RQ2458550,Invitae,,PHEX,c.316del (p.Trp106Glyfs*2),heterozygous,PATHOGENIC,Positive
+RQ2390217,Invitae,,PHEX,Deletion (Exon 14),heterozygous,PATHOGENIC,Positive
+RQ2357831,Invitae,,PHEX,c. 254G>C (p.Cys85Ser),heterozygous,PATHOGENIC,Positive
+RQ2006068,Invitae,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+RQ1960681,Invitae,,PHEX,c.1707_1710dup (p.Tyr571Glufs*12),heterozygous,PATHOGENIC,Positive
+RQ1879726,Invitae,,PHEX; VoR,c.1645C>T (p.Args49*); c.565C>A (p.His189Asn),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ1827459,Invitae,,PHEX,c.1332G>A (p.Trp444*),heterozygous,PATHOGENIC,Positive
+RQ1827435,Invitae,,PHEX,c.444del (p.Ile148Metfs*73),heterozygous,PATHOGENIC,Positive
+RQ1827424,Invitae,,PHEX,Deletion (Exon 22),hemizygous,PATHOGENIC,Positive
+RQ1827413,Invitae,,PHEX,c.1735G>A (p.Gly579Arg),heterozygous,PATHOGENIC,Positive
+RQ1686069,Invitae,,PHEX,c.1586+5G>A (Intronic),heterozygous,PATHOGENIC,Positive
+RQ1686063,Invitae,,PHEX,c.871C>T (p.Arg291*),hemizygous,PATHOGENIC,Positive
+RQ1634868,Invitae,,PHEX,c.1765_1768del (p.Asn589Valfs*29),hemizygous,PATHOGENIC,Positive
+RQ1573947,Invitae,,PHEX,c.2221A>T (p.Arg741*),heterozygous,PATHOGENIC,Positive
+RQ1573944,Invitae,,PHEX; FGFR1,c.58C>T (p.Arg20*); c.193A>C (p.Asn65His),hemizygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ1573939,Invitae,,PHEX,c.1332G>A (p.Trp444*),heterozygous,PATHOGENIC,Positive
+RQ1544301,Invitae,,PHEX; VDR,c.1645C>T (p.Arg549*); c.565C>A (p.His189Asn),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ1527123,Invitae,,PHEX,Deletion (Exon 3),heterozygous,PATHOGENIC,Positive
+RQ1500705,Invitae,,PHEX,c.942G>A (p.Trp314*),hemizygous,PATHOGENIC,Positive
+RQ1500681,Invitae,,PHEX,c.2125del (p.Ala709Leufs*31),hemizygous,PATHOGENIC,Positive
+RQ1317989,Invitae,,PHEX,c.1332G>A (p.Trp444*),hemizygous,PATHOGENIC,Positive
+RQ1280251,Invitae,,PHEX; CYP2R1,c.1645+1G>A (Splice donor); c.1120dup (p.Ile374Asnfs*12),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ1280215,Invitae,,PHEX,c.2165_2184dup (p.Lys729Valfs*18),heterozygous,PATHOGENIC,Positive
+RQ1280195,Invitae,,PHEX,c.2182C>T (p.Gln728*),hemizygous,PATHOGENIC,Positive
+RQ1264708,Invitae,,CYP27B1; CYP27B1,c.1226C>T (p.Thr409Ile); c.413G>T (p.Arg138Leu),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+RQ1264691,Invitae,,PHEX,c.1735G>A (p.Gly579Arg),heterozygous,PATHOGENIC,Positive
+RQ1137343,Invitae,,PHEX,c.1404+2_1404+6del (Splice donor),hemizygous,PATHOGENIC,Positive
+RQ3074571,Invitae,,PHEX,Partial Deletion (Exon 13),heterozygous,Likely Pathogenic,Positive
+RQ2948792,Invitae,,PHEX; PHEX,— c.416A>G (p.Tyr139Cys); cAT6A2G (p.Tyr139Cys),heterozygous; heterozygous,_Likely Pathogenic PATHOGENIC; PATHOGENIC,Positive
+RQ2369005,Invitae,,PHEX; PHEX,— c.416A>G (p.Tyr139Cys); cAT6A2G (p.Tyr139Cys),heterozygous; heterozygous,_Likely Pathogenic PATHOGENIC; PATHOGENIC,Positive
+RQ1827471,Invitae,,PHEX,Partial Deletion (Exon 13),heterozygous,Likely Pathogenic,Positive
+RQ1720741,Invitae,,PHEX,Partial Deletion (Exon 13),heterozygous,Likely Pathogenic,Positive
+RQ1527114,Invitae,,PHEX,c.1936G>C (p.Asp646His),heterozygous,Likely Pathogenic,Positive
+RQ1264658,Invitae,,CYP27B1; CYP27B1,c.1226C>T (p.Thr409Ile); c.413G>T (p.Arg138Leu),heterozygous; heterozygous,Likely Pathogenic; Uncertain Significance,Positive
+=== Resumen ===,Invitae,,,,,,Unknown
+Descripción,Invitae,,,,,,Unknown
+Order IDs únicos,Invitae,,,,,,Unknown
+Categoría,Invitae,,,,,,Unknown
+Total válidos (126),Invitae,,,,,,Unknown
+Duplicados detectados,Invitae,,,,,,Unknown
+Cancelados detectados,Invitae,,,,,,Unknown
+Pathogenic puros,Invitae,,,,,,Unknown
+Likely Pathogenic (solo),Invitae,,,,,,Unknown
+"Likely Pathogenic, Pathogenic",Invitae,,,,,,Unknown
+Total seleccionados finales (Pathogenic o mezcla sin duplicados/cancelados),Invitae,,,,,,Unknown
