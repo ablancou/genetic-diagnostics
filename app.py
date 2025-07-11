@@ -1,8 +1,29 @@
 # app.py
 
+
 import streamlit as st
 import pandas as pd
 import io
+
+
+# Protección con contraseña mejorada
+def check_password():
+    def password_entered():
+        if st.session_state["password"] == st.secrets["auth"]["password"]:
+            st.session_state["password_correct"] = True
+            del st.session_state["password"]
+        else:
+            st.session_state["password_correct"] = False
+
+    if "password_correct" not in st.session_state:
+        st.text_input("🔒 Ingresa la contraseña", type="password", on_change=password_entered, key="password")
+        st.stop()
+    elif not st.session_state["password_correct"]:
+        st.text_input("🔒 Ingresa la contraseña", type="password", on_change=password_entered, key="password")
+        st.error("Contraseña incorrecta")
+        st.stop()
+
+check_password()
 
 # Cargar el archivo CSV
 df = pd.read_csv("invitae.csv")
@@ -20,6 +41,11 @@ with st.sidebar:
     laboratorio = st.selectbox("Selecciona el laboratorio", ["Todos"] + sorted(df["Lab"].dropna().unique()))
     clasificacion = st.selectbox("Clasificación", ["Todas"] + sorted(df["VARIANT CLASSIFICATION"].dropna().unique()))
     resultado = st.selectbox("Resultado", ["Todos", "Positive", "Negative", "Unknown"])
+
+    # Botón para cerrar sesión
+    if st.button("🔒 Cerrar sesión"):
+        st.session_state["password_correct"] = False
+        st.rerun()
 
 # Aplicar filtros
 df_filtrado = df.copy()
@@ -96,14 +122,15 @@ elif grafica == "🧁 Gráfico circular (pastel)":
                  title="Distribución de Clasificaciones")
     st.plotly_chart(fig, use_container_width=True)
 
-    buf = io.BytesIO()
-    fig.write_image(buf, format="png")
-    st.download_button(
-        label="📥 Descargar gráfica (PNG)",
-        data=buf.getvalue(),
-        file_name="grafica_pastel.png",
-        mime="image/png"
-    )
+    # buf = io.BytesIO()
+    # fig.write_image(buf, format="png")
+    # st.download_button(
+    #     label="📥 Descargar gráfica (PNG)",
+    #     data=buf.getvalue(),
+    #     file_name="grafica_pastel.png",
+    #     mime="image/png"
+    # )
+    st.info("Para descargar la gráfica, haz clic en el ícono de cámara en la esquina superior derecha del gráfico.")
 
 # Mapa de calor GENE vs ZYGOSITY
 elif grafica == "🌡️ Mapa de calor GENE vs ZYGOSITY":
@@ -118,11 +145,12 @@ elif grafica == "🌡️ Mapa de calor GENE vs ZYGOSITY":
                     title="Mapa de Calor: GENE vs ZYGOSITY")
     st.plotly_chart(fig, use_container_width=True)
 
-    buf = io.BytesIO()
-    fig.write_image(buf, format="png")
-    st.download_button(
-        label="📥 Descargar mapa de calor (PNG)",
-        data=buf.getvalue(),
-        file_name="heatmap_gene_zygosity.png",
-        mime="image/png"
-    )
+    # buf = io.BytesIO()
+    # fig.write_image(buf, format="png")
+    # st.download_button(
+    #     label="📥 Descargar mapa de calor (PNG)",
+    #     data=buf.getvalue(),
+    #     file_name="heatmap_gene_zygosity.png",
+    #     mime="image/png"
+    # )
+    st.info("Para descargar la gráfica, haz clic en el ícono de cámara en la esquina superior derecha del gráfico.")
