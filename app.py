@@ -38,6 +38,7 @@ with st.sidebar:
     laboratorio = st.selectbox("Selecciona el laboratorio", ["Todos"] + sorted(df["Lab"].dropna().unique()))
     clasificacion = st.selectbox("Clasificación", ["Todas"] + sorted(df["VARIANT CLASSIFICATION"].dropna().unique()))
     resultado = st.selectbox("Resultado", ["Todos", "Positive", "Negative", "Unknown"])
+    tipo_entrada = st.selectbox("Tipo de entrada", ["Solo válidos", "Duplicados", "Cancelados", "Todos"])
 
     # Botón para cerrar sesión
     if st.button("🔒 Cerrar sesión"):
@@ -56,98 +57,113 @@ if clasificacion != "Todas":
 if resultado != "Todos":
     df_filtrado = df_filtrado[df_filtrado["Result"] == resultado]
 
+if tipo_entrada == "Solo válidos":
+    df_filtrado = df_filtrado[~df_filtrado["Order ID"].str.contains("duplicado|cancelado|borrador", case=False, na=False)]
+elif tipo_entrada == "Duplicados":
+    df_filtrado = df_filtrado[df_filtrado["Order ID"].str.contains("duplicado", case=False, na=False)]
+elif tipo_entrada == "Cancelados":
+    df_filtrado = df_filtrado[df_filtrado["Order ID"].str.contains("cancelado|borrador", case=False, na=False)]
+
+# Garantizar registros únicos por "Order ID" después de aplicar los filtros
+df_filtrado = df_filtrado.drop_duplicates(subset="Order ID", keep="first")
+
 # Mostrar tabla
 st.dataframe(df_filtrado)
 
 # Mostrar resumen
 st.markdown(f"### Total de registros mostrados: {len(df_filtrado)}")
 
-import plotly.express as px
-
 st.markdown("---")
-st.header("📈 Visualización Interactiva")
+st.header("📊 Panel Visual Interactivo")
 
-st.markdown(
-    "Selecciona el tipo de visualización que deseas generar. Las gráficas son interactivas y puedes hacer zoom, pasar el mouse para ver detalles o descargar el gráfico."
-)
-
-# Menú para seleccionar tipo de gráfica
-grafica = st.selectbox("📌 Tipo de visualización", [
-    "📊 Clasificación de variantes",
-    "🔬 Genes más frecuentes",
-    "🧬 Zigosidad por clasificación",
-    "🧁 Gráfico circular (pastel)",
-    "🌡️ Mapa de calor GENE vs ZYGOSITY"
-])
+import plotly.express as px
 
 # Función para paleta azul personalizada
 color_azul = px.colors.sequential.Blues
 
-# Clasificación de variantes
-if grafica == "📊 Clasificación de variantes":
+# Mostrar múltiples gráficas desde el inicio
+
+col1, col2 = st.columns(2)
+
+with col1:
+    st.subheader("📊 Clasificación de variantes")
     conteo = df_filtrado["VARIANT CLASSIFICATION"].value_counts().reset_index()
     conteo.columns = ["Clasificación", "Cantidad"]
-    fig = px.bar(conteo, x="Clasificación", y="Cantidad", color="Clasificación",
-                 color_discrete_sequence=color_azul)
-    st.plotly_chart(fig, use_container_width=True)
+    fig1 = px.bar(conteo, x="Clasificación", y="Cantidad", color="Clasificación",
+                  color_discrete_sequence=color_azul)
+    fig1.update_layout(
+        plot_bgcolor='rgba(0,0,0,0)',
+        paper_bgcolor='rgba(0,0,0,0)',
+        bargap=0.3
+    )
+    st.plotly_chart(fig1, use_container_width=True)
 
-# Genes más frecuentes
-elif grafica == "🔬 Genes más frecuentes":
+with col2:
+    st.subheader("🔬 Genes más frecuentes")
     genes_expandidos = df_filtrado["GENE"].dropna().str.split(";").explode().str.strip()
     top_genes = genes_expandidos.value_counts().head(10).reset_index()
     top_genes.columns = ["Gen", "Cantidad"]
-    fig = px.bar(top_genes, x="Gen", y="Cantidad", color="Gen",
-                 color_discrete_sequence=color_azul)
-    st.plotly_chart(fig, use_container_width=True)
+    fig2 = px.bar(top_genes, x="Gen", y="Cantidad", color="Gen",
+                  color_discrete_sequence=color_azul)
+    fig2.update_layout(
+        plot_bgcolor='rgba(0,0,0,0)',
+        paper_bgcolor='rgba(0,0,0,0)',
+        bargap=0.3
+    )
+    st.plotly_chart(fig2, use_container_width=True)
 
-# Zigosidad por clasificación
-elif grafica == "🧬 Zigosidad por clasificación":
+col3, col4 = st.columns(2)
+
+with col3:
+    st.subheader("📈 Distribución de Clasificaciones (Pastel)")
+    conteo_pie = df_filtrado["VARIANT CLASSIFICATION"].value_counts().reset_index()
+    conteo_pie.columns = ["Clasificación", "Cantidad"]
+    fig3 = px.pie(
+        conteo_pie,
+        names="Clasificación",
+        values="Cantidad",
+        hole=0.4,
+        color_discrete_sequence=color_azul
+    )
+    fig3.update_traces(
+        textposition='inside',
+        textinfo='percent+label',
+        pull=[0.05]*len(conteo_pie)
+    )
+    fig3.update_layout(
+        paper_bgcolor='rgba(0,0,0,0)',
+        plot_bgcolor='rgba(0,0,0,0)',
+        margin=dict(t=20, b=20, l=20, r=20)
+    )
+    st.plotly_chart(fig3, use_container_width=True)
+
+with col4:
+    st.subheader("🧬 Zigosidad por Clasificación")
     temp = df_filtrado[["ZYGOSITY", "VARIANT CLASSIFICATION"]].dropna()
     temp = temp.assign(ZYGOSITY=temp["ZYGOSITY"].str.split(";")).explode("ZYGOSITY")
     temp["ZYGOSITY"] = temp["ZYGOSITY"].str.strip()
-    conteo = temp.groupby(["VARIANT CLASSIFICATION", "ZYGOSITY"]).size().reset_index(name="Cantidad")
-    fig = px.bar(conteo, x="VARIANT CLASSIFICATION", y="Cantidad", color="ZYGOSITY",
-                 barmode="group", color_discrete_sequence=color_azul)
-    st.plotly_chart(fig, use_container_width=True)
+    conteo_bar = temp.groupby(["VARIANT CLASSIFICATION", "ZYGOSITY"]).size().reset_index(name="Cantidad")
+    fig4 = px.bar(conteo_bar, x="VARIANT CLASSIFICATION", y="Cantidad", color="ZYGOSITY",
+                  barmode="group", color_discrete_sequence=color_azul)
+    fig4.update_layout(
+        plot_bgcolor='rgba(0,0,0,0)',
+        paper_bgcolor='rgba(0,0,0,0)',
+        bargap=0.25
+    )
+    st.plotly_chart(fig4, use_container_width=True)
 
-# Gráfico circular (pastel)
-elif grafica == "🧁 Gráfico circular (pastel)":
-    conteo = df_filtrado["VARIANT CLASSIFICATION"].value_counts().reset_index()
-    conteo.columns = ["Clasificación", "Cantidad"]
-    fig = px.pie(conteo, names="Clasificación", values="Cantidad",
-                 color_discrete_sequence=color_azul,
-                 title="Distribución de Clasificaciones")
-    st.plotly_chart(fig, use_container_width=True)
+st.subheader("🌡️ Mapa de Calor: GENE vs ZYGOSITY")
+temp_heat = df_filtrado[["GENE", "ZYGOSITY"]].dropna()
+temp_heat = temp_heat.assign(GENE=temp_heat["GENE"].str.split(";")).explode("GENE")
+temp_heat = temp_heat.assign(ZYGOSITY=temp_heat["ZYGOSITY"].str.split(";")).explode("ZYGOSITY")
+temp_heat["GENE"] = temp_heat["GENE"].str.strip()
+temp_heat["ZYGOSITY"] = temp_heat["ZYGOSITY"].str.strip()
 
-    # buf = io.BytesIO()
-    # fig.write_image(buf, format="png")
-    # st.download_button(
-    #     label="📥 Descargar gráfica (PNG)",
-    #     data=buf.getvalue(),
-    #     file_name="grafica_pastel.png",
-    #     mime="image/png"
-    # )
-    st.info("Para descargar la gráfica, haz clic en el ícono de cámara en la esquina superior derecha del gráfico.")
-
-# Mapa de calor GENE vs ZYGOSITY
-elif grafica == "🌡️ Mapa de calor GENE vs ZYGOSITY":
-    temp = df_filtrado[["GENE", "ZYGOSITY"]].dropna()
-    temp = temp.assign(GENE=temp["GENE"].str.split(";")).explode("GENE")
-    temp = temp.assign(ZYGOSITY=temp["ZYGOSITY"].str.split(";")).explode("ZYGOSITY")
-    temp["GENE"] = temp["GENE"].str.strip()
-    temp["ZYGOSITY"] = temp["ZYGOSITY"].str.strip()
-
-    pivot = temp.pivot_table(index="GENE", columns="ZYGOSITY", aggfunc=len, fill_value=0)
-    fig = px.imshow(pivot, text_auto=True, color_continuous_scale=color_azul,
-                    title="Mapa de Calor: GENE vs ZYGOSITY")
-    st.plotly_chart(fig, use_container_width=True)
-
-    # buf = io.BytesIO()
-    # fig.write_image(buf, format="png")
-    # st.download_button(
-    #     label="📥 Descargar mapa de calor (PNG)",
-    #     data=buf.getvalue(),
-    #     file_name="heatmap_gene_zygosity.png",
-    #     mime="image/png"
-    # )
-    st.info("Para descargar la gráfica, haz clic en el ícono de cámara en la esquina superior derecha del gráfico.")
+pivot = temp_heat.pivot_table(index="GENE", columns="ZYGOSITY", aggfunc=len, fill_value=0)
+fig5 = px.imshow(pivot, text_auto=True, color_continuous_scale=color_azul)
+fig5.update_layout(
+    paper_bgcolor='rgba(0,0,0,0)',
+    plot_bgcolor='rgba(0,0,0,0)',
+    margin=dict(t=20, b=20, l=20, r=20)
+)
+st.plotly_chart(fig5, use_container_width=True)
