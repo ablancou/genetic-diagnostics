@@ -25,10 +25,12 @@ def check_password():
 
 check_password()
 
-# Cargar el archivo CSV
-df = pd.read_csv("Lab01.csv")
-df = df[~df["Order ID"].str.contains("duplicado|cancelado|borrador", case=False, na=False)]
-df = df.drop_duplicates(subset="Order ID", keep="first")
+# Cargar el archivo CSV y filtrar registros válidos desde el inicio
+df_original = pd.read_csv("Lab01.csv")
+df_validos = df_original[
+    ~df_original["Order ID"].str.contains("duplicado|cancelado|borrador", case=False, na=False)
+].drop_duplicates(subset="Order ID", keep="first")
+df = df_validos.copy()
 
 st.title("📊 Dashboard de Diagnósticos Genéticos")
 
@@ -72,7 +74,7 @@ df_filtrado = df_filtrado.drop_duplicates(subset="Order ID", keep="first")
 st.dataframe(df_filtrado)
 
 # Mostrar resumen
-st.markdown(f"### Total de registros válidos de Lab01: {len(df_filtrado)}")
+st.markdown(f"### Total de registros válidos de Lab01: {len(df_validos)}")
 
 st.markdown("---")
 st.header("📊 Panel Visual Interactivo")
