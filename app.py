@@ -26,8 +26,7 @@ def check_password():
 check_password()
 
 # Cargar el archivo CSV y filtrar registros válidos desde el inicio
-df_original = pd.read_csv("Lab01.csv", skiprows=1)
-df_original.columns = ["Order ID", "Report date", "GENE", "VARIANT", "ZYGOSITY", "VARIANT CLASSIFICATION", "PRIOR VARIANT CLASSIFICATION", "Patient name", "Result", "Clinical Summary", "Lab"]
+df_original = pd.read_csv("Lab01.csv")
 df_validos = df_original[
     ~df_original["Order ID"].str.contains("duplicado|cancelado|borrador", case=False, na=False)
 ].drop_duplicates(subset="Order ID", keep="first")
