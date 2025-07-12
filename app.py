@@ -26,10 +26,7 @@ def check_password():
 check_password()
 
 # Cargar el archivo CSV
-df = pd.read_csv("invitae.csv")
-
-# Filtrar: eliminar filas donde el Order ID no empiece con 'RQ' y tenga exactamente 7 dígitos después
-df = df[df["Order ID"].astype(str).str.match(r"^RQ\d{7}$")]
+df = pd.read_csv("Lab01.csv")
 df = df.drop_duplicates(subset="Order ID", keep="first")
 
 st.title("📊 Dashboard de Diagnósticos Genéticos")

@@ -1,0 +1,399 @@
+Order ID,Lab,Report Date,GENE,VARIANT,ZYGOSITY,VARIANT CLASSIFICATION,Result
+5927899,Lab01,,,,,,Negative
+5747768,Lab01,,PHEX,c.1966-1G>A (Splice acceptor),heterozygous,PATHOGENIC,Positive
+5747749,Lab01,,PHEX,.106Sdel (p Ser356Leufs*37),heterozygous,PATHOGENIC,Positive
+5747749,Lab01,,PHEX,.106Sdel (p Ser356Leufs*37),heterozygous,PATHOGENIC,Positive
+5657420,Lab01,,cyp2781; cyp2781; ENPPI,c.1226C>T (p.Thr40sIle); c.160_16 dup (p.LysS5Alafs*24); c.1030GT (p.Val344Leu),heterozygous; heterozygous; heterozygous,PATHOGENIC; PATHOGENIC; Uncertain Significance,Positive
+5657420,Lab01,,cyp2781; cyp2781; ENPPI,c.1226C>T (p.Thr40sIle); c.160_16 dup (p.LysS5Alafs*24); c.1030GT (p.Val344Leu),heterozygous; heterozygous; heterozygous,PATHOGENIC; PATHOGENIC; Uncertain Significance,Positive
+5631341,Lab01,,,,,,Negative
+5631325,Lab01,,PHEX; ENPP1,.1699C>T (p.Arg567*); c.200G>A (p.Arg67His),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+5631325,Lab01,,PHEX; ENPP1,.1699C>T (p.Arg567*); c.200G>A (p.Arg67His),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+5137031,Lab01,,,,,,Negative
+5137031,Lab01,,,,,,Negative
+5137017,Lab01,,PHEX,c.1875T>G (p-Tyr625*),heterozygous,PATHOGENIC,Positive
+5137017,Lab01,,PHEX,c.1875T>G (p-Tyr625*),heterozygous,PATHOGENIC,Positive
+5137005,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+5099270,Lab01,,PHEX,c.663+1G>T (Splice donor),heterozygous,PATHOGENIC,Positive
+5099112,Lab01,,PHEX,c.663+1G>T (Splice donor),heterozygous,PATHOGENIC,Positive
+5099112,Lab01,,PHEX,c.663+1G>T (Splice donor),heterozygous,PATHOGENIC,Positive
+5065384,Lab01,,PHEX,c.2239C>T (p.Arg747*),heterozygous,PATHOGENIC,Positive
+5065384,Lab01,,PHEX,c.2239C>T (p.Arg747*),heterozygous,PATHOGENIC,Positive
+5065369,Lab01,,,,,,Negative
+5065338,Lab01,,PHEX,c.1822_1823del (p.Glu608Argfs*4),heterozygous,PATHOGENIC,Positive
+5065338,Lab01,,PHEX,c.1822_1823del (p.Glu608Argfs*4),heterozygous,PATHOGENIC,Positive
+4907853,Lab01,,,,,,Negative
+4907846,Lab01,,PHEX,c.1174-2A2G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+4907846,Lab01,,PHEX,c.1174-2A2G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+4907819,Lab01,,PHEX,c.350-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+4907819,Lab01,,PHEX,c.350-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+4907751,Lab01,,,,,,Negative
+4815697,Lab01,,,,,,Negative
+4815592,Lab01,,,,,,Negative
+4746912,Lab01,,PHEX,c.944dup (p.Tyr317Leufs*7),heterozygous,PATHOGENIC,Positive
+4746912,Lab01,,PHEX,c.944dup (p.Tyr317Leufs*7),heterozygous,PATHOGENIC,Positive
+4746092,Lab01,,PHEX,c.1303-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+4746092,Lab01,,PHEX,c.1303-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+4678434,Lab01,,,,,,Negative
+4379847,Lab01,,,,,,Negative
+4359308,Lab01,,,,,,Negative
+4359308,Lab01,,,,,,Negative
+4359292,Lab01,,,,,,Negative
+4359292,Lab01,,,,,,Negative
+4309557,Lab01,,,,,,Negative
+4309546,Lab01,,PHEX,c349+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+4309546,Lab01,,PHEX,c349+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+4309538,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+4309538,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+4309528,Lab01,,PHEX,c914T>C (p.Leu305Pro),heterozygous,Likely Pathogenic,Positive
+4309528,Lab01,,PHEX,c914T>C (p.Leu305Pro),heterozygous,Likely Pathogenic,Positive
+4309523,Lab01,,PHEX,c.1036T>G (p.Tyr346Asp),heterozygous,PATHOGENIC,Positive
+4309523,Lab01,,PHEX,c.1036T>G (p.Tyr346Asp),heterozygous,PATHOGENIC,Positive
+4182754,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+4182754,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+4182726,Lab01,,PHEX,c.2181_2191 del (p.Gin728*),heterozygous,PATHOGENIC,Positive
+4182726,Lab01,,PHEX,c.2181_2191 del (p.Gin728*),heterozygous,PATHOGENIC,Positive
+4152092,Lab01,,,,,,Negative
+4060057,Lab01,,,,,,Negative
+4060035,Lab01,,,,,,Negative
+3972921,Lab01,,PHEX,c.1389_1404del (p.Lys464Argfs*14),heterozygous,PATHOGENIC,Positive
+3972921,Lab01,,PHEX,c.1389_1404del (p.Lys464Argfs*14),heterozygous,PATHOGENIC,Positive
+3972909,Lab01,,PHEX,c.1645+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+3972909,Lab01,,PHEX,c.1645+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+3972891,Lab01,,PHEX,.c58C>T (p.Arg20*),heterozygous,PATHOGENIC,Positive
+3972891,Lab01,,PHEX,.c58C>T (p.Arg20*),heterozygous,PATHOGENIC,Positive
+3916627,Lab01,,,,,,Negative
+3916602,Lab01,,PHEX,c.1283del (p.Gln428Argfs*7),heterozygous,PATHOGENIC,Positive
+3882517,Lab01,,PHEX,Partial Deletion (Exon 7),heterozygous,PATHOGENIC,Positive
+3882517,Lab01,,PHEX,Partial Deletion (Exon 7),heterozygous,PATHOGENIC,Positive
+3882504,Lab01,,PHEX,c.2104C>T (p.Arg702*),heterozygous,PATHOGENIC,Positive
+3872157,Lab01,,PHEX,c.200_201ins? (p.Leu67fs),heterozygous,PATHOGENIC,Positive
+3810808,Lab01,,PHEX,Deletion (Exon 15),heterozygous,PATHOGENIC,Positive
+3763137,Lab01,,,,,,Negative
+3763128,Lab01,,PHEX,.1895T>A (p.Leu632*),heterozygous,PATHOGENIC,Positive
+3763102,Lab01,,PHEX; SLC34A3,Deletion (Exon 1); <.947CoT (p.Thr316Met),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+3681705,Lab01,,,,,,Negative
+3681693,Lab01,,,,,,Negative
+3681668,Lab01,,PHEX,c.2239C>T (p.Arg747*),heterozygous,PATHOGENIC,Positive
+3681652,Lab01,,PHEX,c.1645+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+3637301,Lab01,,PHEX,c.2104C>T (p.Arg702*),heterozygous,PATHOGENIC,Positive
+3162688,Lab01,,FAM20C; PHEX,c.1669G>A (p.Val557Ile); c.1957G>c (p.Ala653Pro),heterozygous; heterozygous,Uncertain Significance; Uncertain Significance,Negative
+3084360,Lab01,,,,,,Negative
+3084358,Lab01,,,,,,Negative
+3074571,Lab01,,PHEX,Partial Deletion (Exon 13),heterozygous,Likely Pathogenic,Positive
+3005710,Lab01,,PHEX; TNS,Deletion (Exons 10-11); c.970G>A (p.Asp324Asn),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+2980345,Lab01,,,,,,Negative
+2948792,Lab01,,PHEX; PHEX,— c.416A>G (p.Tyr139Cys); cAT6A2G (p.Tyr139Cys),heterozygous; heterozygous,_Likely Pathogenic PATHOGENIC; PATHOGENIC,Positive
+2932621,Lab01,,PHEX,c.1700G>c (p.Arg567Pro),heterozygous,PATHOGENIC,Positive
+2843721,Lab01,,,,,,Negative
+2843709,Lab01,,,,,,Negative
+2772778,Lab01,,PHEX,c.1864T>C (p.Tyr622His),heterozygous,Uncertain Significance,Negative
+2641716,Lab01,,,,,,Negative
+2641695,Lab01,,PHEX,c.1586+5G>A (Intronic),heterozygous,PATHOGENIC,Positive
+2641683,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+2641660,Lab01,,PHEX,c.1173+1GeT (Splice donor),heterozygous,PATHOGENIC,Positive
+2595368,Lab01,,,,,,Negative
+2573438,Lab01,,PHEX,.1586_1586+Idel (Splice site),heterozygous,PATHOGENIC,Positive
+2573434,Lab01,,,,,,Negative
+2573429,Lab01,,,,,,Negative
+2573420,Lab01,,PHEX,c.1586+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+2549239,Lab01,,ENPP1,c.165G>A (Silent),heterozygous,Uncertain Significance,Negative
+2549239,Lab01,,ENPPI,—_c.165G>A (Silent),heterozygous,Uncertain Significance Likely Benign,Negative
+2458560,Lab01,,PHEX,c.1699C>T (p.Arg567*),heterozygous,PATHOGENIC,Positive
+2458550,Lab01,,PHEX,c.316del (p.Trp106Glyfs*2),heterozygous,PATHOGENIC,Positive
+2441755,Lab01,,,,,,Negative
+2414476,Lab01,,,,,,Negative
+2390245,Lab01,,,,,,Negative
+2390217,Lab01,,PHEX,Deletion (Exon 14),heterozygous,PATHOGENIC,Positive
+2369005,Lab01,,PHEX; PHEX,— c.416A>G (p.Tyr139Cys); cAT6A2G (p.Tyr139Cys),heterozygous; heterozygous,_Likely Pathogenic PATHOGENIC; PATHOGENIC,Positive
+2357831,Lab01,,PHEX,c. 254G>C (p.Cys85Ser),heterozygous,PATHOGENIC,Positive
+2325951,Lab01,,FGERI,c.1244AG (p.His415Arg),heterozygous,Uncertain Significance,Negative
+2302294,Lab01,,,,,,Negative
+2302283,Lab01,,,,,,Negative
+2006068,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+1960681,Lab01,,PHEX,c.1707_1710dup (p.Tyr571Glufs*12),heterozygous,PATHOGENIC,Positive
+1941400,Lab01,,ENPPI,—_c.165G>A (Silent),heterozygous,Uncertain Significance Likely Benign,Negative
+1879726,Lab01,,PHEX; VoR,c.1645C>T (p.Args49*); c.565C>A (p.His189Asn),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+1827471,Lab01,,PHEX,Partial Deletion (Exon 13),heterozygous,Likely Pathogenic,Positive
+1827459,Lab01,,PHEX,c.1332G>A (p.Trp444*),heterozygous,PATHOGENIC,Positive
+1827445,Lab01,,PHEX,c.1304T>G (p.Met435Arg),heterozygous,Uncertain Significance,Negative
+1827435,Lab01,,PHEX,c.444del (p.Ile148Metfs*73),heterozygous,PATHOGENIC,Positive
+1827424,Lab01,,PHEX,Deletion (Exon 22),hemizygous,PATHOGENIC,Positive
+1827413,Lab01,,PHEX,c.1735G>A (p.Gly579Arg),heterozygous,PATHOGENIC,Positive
+1735334,Lab01,,,,,,Negative
+1720741,Lab01,,PHEX,Partial Deletion (Exon 13),heterozygous,Likely Pathogenic,Positive
+1686096,Lab01,,,,,,Negative
+1686069,Lab01,,PHEX,c.1586+5G>A (Intronic),heterozygous,PATHOGENIC,Positive
+1686063,Lab01,,PHEX,c.871C>T (p.Arg291*),hemizygous,PATHOGENIC,Positive
+1669071,Lab01,,,,,,Negative
+1634868,Lab01,,PHEX,c.1765_1768del (p.Asn589Valfs*29),hemizygous,PATHOGENIC,Positive
+1573947,Lab01,,PHEX,c.2221A>T (p.Arg741*),heterozygous,PATHOGENIC,Positive
+1573944,Lab01,,PHEX; FGFR1,c.58C>T (p.Arg20*); c.193A>C (p.Asn65His),hemizygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+1573939,Lab01,,PHEX,c.1332G>A (p.Trp444*),heterozygous,PATHOGENIC,Positive
+1544301,Lab01,,PHEX; VDR,c.1645C>T (p.Arg549*); c.565C>A (p.His189Asn),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+1527123,Lab01,,PHEX,Deletion (Exon 3),heterozygous,PATHOGENIC,Positive
+1527120,Lab01,,,,,,Negative
+1527114,Lab01,,PHEX,c.1936G>C (p.Asp646His),heterozygous,Likely Pathogenic,Positive
+1500705,Lab01,,PHEX,c.942G>A (p.Trp314*),hemizygous,PATHOGENIC,Positive
+1500681,Lab01,,PHEX,c.2125del (p.Ala709Leufs*31),hemizygous,PATHOGENIC,Positive
+1317989,Lab01,,PHEX,c.1332G>A (p.Trp444*),hemizygous,PATHOGENIC,Positive
+1280251,Lab01,,PHEX; CYP2R1,c.1645+1G>A (Splice donor); c.1120dup (p.Ile374Asnfs*12),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+1280215,Lab01,,PHEX,c.2165_2184dup (p.Lys729Valfs*18),heterozygous,PATHOGENIC,Positive
+1280195,Lab01,,PHEX,c.2182C>T (p.Gln728*),hemizygous,PATHOGENIC,Positive
+1264708,Lab01,,CYP27B1; CYP27B1,c.1226C>T (p.Thr409Ile); c.413G>T (p.Arg138Leu),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+1264691,Lab01,,PHEX,c.1735G>A (p.Gly579Arg),heterozygous,PATHOGENIC,Positive
+1264658,Lab01,,CYP27B1; CYP27B1,c.1226C>T (p.Thr409Ile); c.413G>T (p.Arg138Leu),heterozygous; heterozygous,Likely Pathogenic; Uncertain Significance,Positive
+1224514,Lab01,,,,,,Negative
+1224460,Lab01,,,,,,Negative
+1224417,Lab01,,,,,,Negative
+1137343,Lab01,,PHEX,c.1404+2_1404+6del (Splice donor),hemizygous,PATHOGENIC,Positive
+1137338,Lab01,,,,,,Negative
+1137330,Lab01,,,,,,Negative
+1115069,Lab01,,,,,,Negative
+1115052,Lab01,,,,,,Negative
+=== Duplicados ===,Lab01,,,,,,Unknown
+Descripción,Lab01,,,,,,Unknown
+Order IDs únicos,Lab01,,,,,,Unknown
+Order ID,Lab01,,GENE,VARIANT,ZYGOSITY,VARIANT CLASSIFICATION,Unknown
+5747749,Lab01,,PHEX,.106Sdel (p Ser356Leufs*37),heterozygous,PATHOGENIC,Positive
+5747749,Lab01,,PHEX,.106Sdel (p Ser356Leufs*37),heterozygous,PATHOGENIC,Positive
+5657420,Lab01,,cyp2781; cyp2781; ENPPI,c.1226C>T (p.Thr40sIle); c.160_16 dup (p.LysS5Alafs*24); c.1030GT (p.Val344Leu),heterozygous; heterozygous; heterozygous,PATHOGENIC; PATHOGENIC; Uncertain Significance,Positive
+5657420,Lab01,,cyp2781; cyp2781; ENPPI,c.1226C>T (p.Thr40sIle); c.160_16 dup (p.LysS5Alafs*24); c.1030GT (p.Val344Leu),heterozygous; heterozygous; heterozygous,PATHOGENIC; PATHOGENIC; Uncertain Significance,Positive
+5631325,Lab01,,PHEX; ENPP1,.1699C>T (p.Arg567*); c.200G>A (p.Arg67His),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+5631325,Lab01,,PHEX; ENPP1,.1699C>T (p.Arg567*); c.200G>A (p.Arg67His),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+5137031,Lab01,,,,,,Negative
+5137031,Lab01,,,,,,Negative
+5137017,Lab01,,PHEX,c.1875T>G (p-Tyr625*),heterozygous,PATHOGENIC,Positive
+5137017,Lab01,,PHEX,c.1875T>G (p-Tyr625*),heterozygous,PATHOGENIC,Positive
+5099112,Lab01,,PHEX,c.663+1G>T (Splice donor),heterozygous,PATHOGENIC,Positive
+5099112,Lab01,,PHEX,c.663+1G>T (Splice donor),heterozygous,PATHOGENIC,Positive
+5065384,Lab01,,PHEX,c.2239C>T (p.Arg747*),heterozygous,PATHOGENIC,Positive
+5065384,Lab01,,PHEX,c.2239C>T (p.Arg747*),heterozygous,PATHOGENIC,Positive
+5065338,Lab01,,PHEX,c.1822_1823del (p.Glu608Argfs*4),heterozygous,PATHOGENIC,Positive
+5065338,Lab01,,PHEX,c.1822_1823del (p.Glu608Argfs*4),heterozygous,PATHOGENIC,Positive
+4907846,Lab01,,PHEX,c.1174-2A2G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+4907846,Lab01,,PHEX,c.1174-2A2G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+4907819,Lab01,,PHEX,c.350-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+4907819,Lab01,,PHEX,c.350-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+4746912,Lab01,,PHEX,c.944dup (p.Tyr317Leufs*7),heterozygous,PATHOGENIC,Positive
+4746912,Lab01,,PHEX,c.944dup (p.Tyr317Leufs*7),heterozygous,PATHOGENIC,Positive
+4746092,Lab01,,PHEX,c.1303-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+4746092,Lab01,,PHEX,c.1303-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+4359308,Lab01,,,,,,Negative
+4359308,Lab01,,,,,,Negative
+4359292,Lab01,,,,,,Negative
+4359292,Lab01,,,,,,Negative
+4309546,Lab01,,PHEX,c349+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+4309546,Lab01,,PHEX,c349+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+4309538,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+4309538,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+4309528,Lab01,,PHEX,c914T>C (p.Leu305Pro),heterozygous,Likely Pathogenic,Positive
+4309528,Lab01,,PHEX,c914T>C (p.Leu305Pro),heterozygous,Likely Pathogenic,Positive
+4309523,Lab01,,PHEX,c.1036T>G (p.Tyr346Asp),heterozygous,PATHOGENIC,Positive
+4309523,Lab01,,PHEX,c.1036T>G (p.Tyr346Asp),heterozygous,PATHOGENIC,Positive
+4182754,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+4182754,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+4182726,Lab01,,PHEX,c.2181_2191 del (p.Gin728*),heterozygous,PATHOGENIC,Positive
+4182726,Lab01,,PHEX,c.2181_2191 del (p.Gin728*),heterozygous,PATHOGENIC,Positive
+3972921,Lab01,,PHEX,c.1389_1404del (p.Lys464Argfs*14),heterozygous,PATHOGENIC,Positive
+3972921,Lab01,,PHEX,c.1389_1404del (p.Lys464Argfs*14),heterozygous,PATHOGENIC,Positive
+3972909,Lab01,,PHEX,c.1645+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+3972909,Lab01,,PHEX,c.1645+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+3972891,Lab01,,PHEX,.c58C>T (p.Arg20*),heterozygous,PATHOGENIC,Positive
+3972891,Lab01,,PHEX,.c58C>T (p.Arg20*),heterozygous,PATHOGENIC,Positive
+3882517,Lab01,,PHEX,Partial Deletion (Exon 7),heterozygous,PATHOGENIC,Positive
+3882517,Lab01,,PHEX,Partial Deletion (Exon 7),heterozygous,PATHOGENIC,Positive
+2549239,Lab01,,ENPP1,c.165G>A (Silent),heterozygous,Uncertain Significance,Negative
+2549239,Lab01,,ENPPI,—_c.165G>A (Silent),heterozygous,Uncertain Significance Likely Benign,Negative
+=== Cancelados ===,Lab01,,,,,,Unknown
+Descripción,Lab01,,,,,,Unknown
+Order IDs únicos,Lab01,,,,,,Unknown
+Order ID,Lab01,,GENE,VARIANT,ZYGOSITY,VARIANT CLASSIFICATION,Unknown
+5927899,Lab01,,,,,,Negative
+4907853,Lab01,,,,,,Negative
+4815697,Lab01,,,,,,Negative
+4678434,Lab01,,,,,,Negative
+4379847,Lab01,,,,,,Negative
+4309557,Lab01,,,,,,Negative
+3681705,Lab01,,,,,,Negative
+2390245,Lab01,,,,,,Negative
+1735334,Lab01,,,,,,Negative
+1137338,Lab01,,,,,,Negative
+1137330,Lab01,,,,,,Negative
+1115069,Lab01,,,,,,Negative
+=== Pathogenic_Puros ===,Lab01,,,,,,Unknown
+Descripción,Lab01,,,,,,Unknown
+Order IDs únicos,Lab01,,,,,,Unknown
+Order ID,Lab01,,GENE,VARIANT,ZYGOSITY,VARIANT CLASSIFICATION,Unknown
+5747768,Lab01,,PHEX,c.1966-1G>A (Splice acceptor),heterozygous,PATHOGENIC,Positive
+5747749,Lab01,,PHEX,.106Sdel (p Ser356Leufs*37),heterozygous,PATHOGENIC,Positive
+5747749,Lab01,,PHEX,.106Sdel (p Ser356Leufs*37),heterozygous,PATHOGENIC,Positive
+5657420,Lab01,,cyp2781; cyp2781; ENPPI,c.1226C>T (p.Thr40sIle); c.160_16 dup (p.LysS5Alafs*24); c.1030GT (p.Val344Leu),heterozygous; heterozygous; heterozygous,PATHOGENIC; PATHOGENIC; Uncertain Significance,Positive
+5657420,Lab01,,cyp2781; cyp2781; ENPPI,c.1226C>T (p.Thr40sIle); c.160_16 dup (p.LysS5Alafs*24); c.1030GT (p.Val344Leu),heterozygous; heterozygous; heterozygous,PATHOGENIC; PATHOGENIC; Uncertain Significance,Positive
+5631325,Lab01,,PHEX; ENPP1,.1699C>T (p.Arg567*); c.200G>A (p.Arg67His),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+5631325,Lab01,,PHEX; ENPP1,.1699C>T (p.Arg567*); c.200G>A (p.Arg67His),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+5137017,Lab01,,PHEX,c.1875T>G (p-Tyr625*),heterozygous,PATHOGENIC,Positive
+5137017,Lab01,,PHEX,c.1875T>G (p-Tyr625*),heterozygous,PATHOGENIC,Positive
+5137005,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+5099270,Lab01,,PHEX,c.663+1G>T (Splice donor),heterozygous,PATHOGENIC,Positive
+5099112,Lab01,,PHEX,c.663+1G>T (Splice donor),heterozygous,PATHOGENIC,Positive
+5099112,Lab01,,PHEX,c.663+1G>T (Splice donor),heterozygous,PATHOGENIC,Positive
+5065384,Lab01,,PHEX,c.2239C>T (p.Arg747*),heterozygous,PATHOGENIC,Positive
+5065384,Lab01,,PHEX,c.2239C>T (p.Arg747*),heterozygous,PATHOGENIC,Positive
+5065338,Lab01,,PHEX,c.1822_1823del (p.Glu608Argfs*4),heterozygous,PATHOGENIC,Positive
+5065338,Lab01,,PHEX,c.1822_1823del (p.Glu608Argfs*4),heterozygous,PATHOGENIC,Positive
+4907846,Lab01,,PHEX,c.1174-2A2G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+4907846,Lab01,,PHEX,c.1174-2A2G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+4907819,Lab01,,PHEX,c.350-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+4907819,Lab01,,PHEX,c.350-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+4746912,Lab01,,PHEX,c.944dup (p.Tyr317Leufs*7),heterozygous,PATHOGENIC,Positive
+4746912,Lab01,,PHEX,c.944dup (p.Tyr317Leufs*7),heterozygous,PATHOGENIC,Positive
+4746092,Lab01,,PHEX,c.1303-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+4746092,Lab01,,PHEX,c.1303-2A>G (Splice acceptor),heterozygous,PATHOGENIC,Positive
+4309546,Lab01,,PHEX,c349+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+4309546,Lab01,,PHEX,c349+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+4309538,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+4309538,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+4309523,Lab01,,PHEX,c.1036T>G (p.Tyr346Asp),heterozygous,PATHOGENIC,Positive
+4309523,Lab01,,PHEX,c.1036T>G (p.Tyr346Asp),heterozygous,PATHOGENIC,Positive
+4182754,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+4182754,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+4182726,Lab01,,PHEX,c.2181_2191 del (p.Gin728*),heterozygous,PATHOGENIC,Positive
+4182726,Lab01,,PHEX,c.2181_2191 del (p.Gin728*),heterozygous,PATHOGENIC,Positive
+3972921,Lab01,,PHEX,c.1389_1404del (p.Lys464Argfs*14),heterozygous,PATHOGENIC,Positive
+3972921,Lab01,,PHEX,c.1389_1404del (p.Lys464Argfs*14),heterozygous,PATHOGENIC,Positive
+3972909,Lab01,,PHEX,c.1645+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+3972909,Lab01,,PHEX,c.1645+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+3972891,Lab01,,PHEX,.c58C>T (p.Arg20*),heterozygous,PATHOGENIC,Positive
+3972891,Lab01,,PHEX,.c58C>T (p.Arg20*),heterozygous,PATHOGENIC,Positive
+3916602,Lab01,,PHEX,c.1283del (p.Gln428Argfs*7),heterozygous,PATHOGENIC,Positive
+3882517,Lab01,,PHEX,Partial Deletion (Exon 7),heterozygous,PATHOGENIC,Positive
+3882517,Lab01,,PHEX,Partial Deletion (Exon 7),heterozygous,PATHOGENIC,Positive
+3882504,Lab01,,PHEX,c.2104C>T (p.Arg702*),heterozygous,PATHOGENIC,Positive
+3872157,Lab01,,PHEX,c.200_201ins? (p.Leu67fs),heterozygous,PATHOGENIC,Positive
+3810808,Lab01,,PHEX,Deletion (Exon 15),heterozygous,PATHOGENIC,Positive
+3763128,Lab01,,PHEX,.1895T>A (p.Leu632*),heterozygous,PATHOGENIC,Positive
+3763102,Lab01,,PHEX; SLC34A3,Deletion (Exon 1); <.947CoT (p.Thr316Met),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+3681668,Lab01,,PHEX,c.2239C>T (p.Arg747*),heterozygous,PATHOGENIC,Positive
+3681652,Lab01,,PHEX,c.1645+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+3637301,Lab01,,PHEX,c.2104C>T (p.Arg702*),heterozygous,PATHOGENIC,Positive
+3005710,Lab01,,PHEX; TNS,Deletion (Exons 10-11); c.970G>A (p.Asp324Asn),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+2932621,Lab01,,PHEX,c.1700G>c (p.Arg567Pro),heterozygous,PATHOGENIC,Positive
+2641695,Lab01,,PHEX,c.1586+5G>A (Intronic),heterozygous,PATHOGENIC,Positive
+2641683,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+2641660,Lab01,,PHEX,c.1173+1GeT (Splice donor),heterozygous,PATHOGENIC,Positive
+2573438,Lab01,,PHEX,.1586_1586+Idel (Splice site),heterozygous,PATHOGENIC,Positive
+2573420,Lab01,,PHEX,c.1586+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+2458560,Lab01,,PHEX,c.1699C>T (p.Arg567*),heterozygous,PATHOGENIC,Positive
+2458550,Lab01,,PHEX,c.316del (p.Trp106Glyfs*2),heterozygous,PATHOGENIC,Positive
+2390217,Lab01,,PHEX,Deletion (Exon 14),heterozygous,PATHOGENIC,Positive
+2357831,Lab01,,PHEX,c. 254G>C (p.Cys85Ser),heterozygous,PATHOGENIC,Positive
+2006068,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+1960681,Lab01,,PHEX,c.1707_1710dup (p.Tyr571Glufs*12),heterozygous,PATHOGENIC,Positive
+1879726,Lab01,,PHEX; VoR,c.1645C>T (p.Args49*); c.565C>A (p.His189Asn),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+1827459,Lab01,,PHEX,c.1332G>A (p.Trp444*),heterozygous,PATHOGENIC,Positive
+1827435,Lab01,,PHEX,c.444del (p.Ile148Metfs*73),heterozygous,PATHOGENIC,Positive
+1827424,Lab01,,PHEX,Deletion (Exon 22),hemizygous,PATHOGENIC,Positive
+1827413,Lab01,,PHEX,c.1735G>A (p.Gly579Arg),heterozygous,PATHOGENIC,Positive
+1686069,Lab01,,PHEX,c.1586+5G>A (Intronic),heterozygous,PATHOGENIC,Positive
+1686063,Lab01,,PHEX,c.871C>T (p.Arg291*),hemizygous,PATHOGENIC,Positive
+1634868,Lab01,,PHEX,c.1765_1768del (p.Asn589Valfs*29),hemizygous,PATHOGENIC,Positive
+1573947,Lab01,,PHEX,c.2221A>T (p.Arg741*),heterozygous,PATHOGENIC,Positive
+1573944,Lab01,,PHEX; FGFR1,c.58C>T (p.Arg20*); c.193A>C (p.Asn65His),hemizygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+1573939,Lab01,,PHEX,c.1332G>A (p.Trp444*),heterozygous,PATHOGENIC,Positive
+1544301,Lab01,,PHEX; VDR,c.1645C>T (p.Arg549*); c.565C>A (p.His189Asn),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+1527123,Lab01,,PHEX,Deletion (Exon 3),heterozygous,PATHOGENIC,Positive
+1500705,Lab01,,PHEX,c.942G>A (p.Trp314*),hemizygous,PATHOGENIC,Positive
+1500681,Lab01,,PHEX,c.2125del (p.Ala709Leufs*31),hemizygous,PATHOGENIC,Positive
+1317989,Lab01,,PHEX,c.1332G>A (p.Trp444*),hemizygous,PATHOGENIC,Positive
+1280251,Lab01,,PHEX; CYP2R1,c.1645+1G>A (Splice donor); c.1120dup (p.Ile374Asnfs*12),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+1280215,Lab01,,PHEX,c.2165_2184dup (p.Lys729Valfs*18),heterozygous,PATHOGENIC,Positive
+1280195,Lab01,,PHEX,c.2182C>T (p.Gln728*),hemizygous,PATHOGENIC,Positive
+1264708,Lab01,,CYP27B1; CYP27B1,c.1226C>T (p.Thr409Ile); c.413G>T (p.Arg138Leu),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+1264691,Lab01,,PHEX,c.1735G>A (p.Gly579Arg),heterozygous,PATHOGENIC,Positive
+1137343,Lab01,,PHEX,c.1404+2_1404+6del (Splice donor),hemizygous,PATHOGENIC,Positive
+=== Likely_Pathogenic ===,Lab01,,,,,,Unknown
+Descripción,Lab01,,,,,,Unknown
+Order IDs únicos,Lab01,,,,,,Unknown
+Order ID,Lab01,,GENE,VARIANT,ZYGOSITY,VARIANT CLASSIFICATION,Unknown
+=== Likely_Pathogenic_Pathogenic ===,Lab01,,,,,,Unknown
+Descripción,Lab01,,,,,,Unknown
+Order IDs únicos,Lab01,,,,,,Unknown
+Order ID,Lab01,,GENE,VARIANT,ZYGOSITY,VARIANT CLASSIFICATION,Unknown
+4309528,Lab01,,PHEX,c914T>C (p.Leu305Pro),heterozygous,Likely Pathogenic,Positive
+4309528,Lab01,,PHEX,c914T>C (p.Leu305Pro),heterozygous,Likely Pathogenic,Positive
+3074571,Lab01,,PHEX,Partial Deletion (Exon 13),heterozygous,Likely Pathogenic,Positive
+2948792,Lab01,,PHEX; PHEX,— c.416A>G (p.Tyr139Cys); cAT6A2G (p.Tyr139Cys),heterozygous; heterozygous,_Likely Pathogenic PATHOGENIC; PATHOGENIC,Positive
+2369005,Lab01,,PHEX; PHEX,— c.416A>G (p.Tyr139Cys); cAT6A2G (p.Tyr139Cys),heterozygous; heterozygous,_Likely Pathogenic PATHOGENIC; PATHOGENIC,Positive
+1827471,Lab01,,PHEX,Partial Deletion (Exon 13),heterozygous,Likely Pathogenic,Positive
+1720741,Lab01,,PHEX,Partial Deletion (Exon 13),heterozygous,Likely Pathogenic,Positive
+1527114,Lab01,,PHEX,c.1936G>C (p.Asp646His),heterozygous,Likely Pathogenic,Positive
+1264658,Lab01,,CYP27B1; CYP27B1,c.1226C>T (p.Thr409Ile); c.413G>T (p.Arg138Leu),heterozygous; heterozygous,Likely Pathogenic; Uncertain Significance,Positive
+=== Seleccionados_58 ===,Lab01,,,,,,Unknown
+Descripción,Lab01,,,,,,Unknown
+Order IDs únicos,Lab01,,,,,,Unknown
+Order ID,Lab01,,GENE,VARIANT,ZYGOSITY,VARIANT CLASSIFICATION,Unknown
+5747768,Lab01,,PHEX,c.1966-1G>A (Splice acceptor),heterozygous,PATHOGENIC,Positive
+5137005,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+5099270,Lab01,,PHEX,c.663+1G>T (Splice donor),heterozygous,PATHOGENIC,Positive
+3916602,Lab01,,PHEX,c.1283del (p.Gln428Argfs*7),heterozygous,PATHOGENIC,Positive
+3882504,Lab01,,PHEX,c.2104C>T (p.Arg702*),heterozygous,PATHOGENIC,Positive
+3872157,Lab01,,PHEX,c.200_201ins? (p.Leu67fs),heterozygous,PATHOGENIC,Positive
+3810808,Lab01,,PHEX,Deletion (Exon 15),heterozygous,PATHOGENIC,Positive
+3763128,Lab01,,PHEX,.1895T>A (p.Leu632*),heterozygous,PATHOGENIC,Positive
+3763102,Lab01,,PHEX; SLC34A3,Deletion (Exon 1); <.947CoT (p.Thr316Met),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+3681668,Lab01,,PHEX,c.2239C>T (p.Arg747*),heterozygous,PATHOGENIC,Positive
+3681652,Lab01,,PHEX,c.1645+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+3637301,Lab01,,PHEX,c.2104C>T (p.Arg702*),heterozygous,PATHOGENIC,Positive
+3005710,Lab01,,PHEX; TNS,Deletion (Exons 10-11); c.970G>A (p.Asp324Asn),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+2932621,Lab01,,PHEX,c.1700G>c (p.Arg567Pro),heterozygous,PATHOGENIC,Positive
+2641695,Lab01,,PHEX,c.1586+5G>A (Intronic),heterozygous,PATHOGENIC,Positive
+2641683,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+2641660,Lab01,,PHEX,c.1173+1GeT (Splice donor),heterozygous,PATHOGENIC,Positive
+2573438,Lab01,,PHEX,.1586_1586+Idel (Splice site),heterozygous,PATHOGENIC,Positive
+2573420,Lab01,,PHEX,c.1586+1G>A (Splice donor),heterozygous,PATHOGENIC,Positive
+2458560,Lab01,,PHEX,c.1699C>T (p.Arg567*),heterozygous,PATHOGENIC,Positive
+2458550,Lab01,,PHEX,c.316del (p.Trp106Glyfs*2),heterozygous,PATHOGENIC,Positive
+2390217,Lab01,,PHEX,Deletion (Exon 14),heterozygous,PATHOGENIC,Positive
+2357831,Lab01,,PHEX,c. 254G>C (p.Cys85Ser),heterozygous,PATHOGENIC,Positive
+2006068,Lab01,,PHEX,c.1735G>A (p.GlyS79Arg),heterozygous,PATHOGENIC,Positive
+1960681,Lab01,,PHEX,c.1707_1710dup (p.Tyr571Glufs*12),heterozygous,PATHOGENIC,Positive
+1879726,Lab01,,PHEX; VoR,c.1645C>T (p.Args49*); c.565C>A (p.His189Asn),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+1827459,Lab01,,PHEX,c.1332G>A (p.Trp444*),heterozygous,PATHOGENIC,Positive
+1827435,Lab01,,PHEX,c.444del (p.Ile148Metfs*73),heterozygous,PATHOGENIC,Positive
+1827424,Lab01,,PHEX,Deletion (Exon 22),hemizygous,PATHOGENIC,Positive
+1827413,Lab01,,PHEX,c.1735G>A (p.Gly579Arg),heterozygous,PATHOGENIC,Positive
+1686069,Lab01,,PHEX,c.1586+5G>A (Intronic),heterozygous,PATHOGENIC,Positive
+1686063,Lab01,,PHEX,c.871C>T (p.Arg291*),hemizygous,PATHOGENIC,Positive
+1634868,Lab01,,PHEX,c.1765_1768del (p.Asn589Valfs*29),hemizygous,PATHOGENIC,Positive
+1573947,Lab01,,PHEX,c.2221A>T (p.Arg741*),heterozygous,PATHOGENIC,Positive
+1573944,Lab01,,PHEX; FGFR1,c.58C>T (p.Arg20*); c.193A>C (p.Asn65His),hemizygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+1573939,Lab01,,PHEX,c.1332G>A (p.Trp444*),heterozygous,PATHOGENIC,Positive
+1544301,Lab01,,PHEX; VDR,c.1645C>T (p.Arg549*); c.565C>A (p.His189Asn),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+1527123,Lab01,,PHEX,Deletion (Exon 3),heterozygous,PATHOGENIC,Positive
+1500705,Lab01,,PHEX,c.942G>A (p.Trp314*),hemizygous,PATHOGENIC,Positive
+1500681,Lab01,,PHEX,c.2125del (p.Ala709Leufs*31),hemizygous,PATHOGENIC,Positive
+1317989,Lab01,,PHEX,c.1332G>A (p.Trp444*),hemizygous,PATHOGENIC,Positive
+1280251,Lab01,,PHEX; CYP2R1,c.1645+1G>A (Splice donor); c.1120dup (p.Ile374Asnfs*12),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+1280215,Lab01,,PHEX,c.2165_2184dup (p.Lys729Valfs*18),heterozygous,PATHOGENIC,Positive
+1280195,Lab01,,PHEX,c.2182C>T (p.Gln728*),hemizygous,PATHOGENIC,Positive
+1264708,Lab01,,CYP27B1; CYP27B1,c.1226C>T (p.Thr409Ile); c.413G>T (p.Arg138Leu),heterozygous; heterozygous,PATHOGENIC; Uncertain Significance,Positive
+1264691,Lab01,,PHEX,c.1735G>A (p.Gly579Arg),heterozygous,PATHOGENIC,Positive
+1137343,Lab01,,PHEX,c.1404+2_1404+6del (Splice donor),hemizygous,PATHOGENIC,Positive
+3074571,Lab01,,PHEX,Partial Deletion (Exon 13),heterozygous,Likely Pathogenic,Positive
+2948792,Lab01,,PHEX; PHEX,— c.416A>G (p.Tyr139Cys); cAT6A2G (p.Tyr139Cys),heterozygous; heterozygous,_Likely Pathogenic PATHOGENIC; PATHOGENIC,Positive
+2369005,Lab01,,PHEX; PHEX,— c.416A>G (p.Tyr139Cys); cAT6A2G (p.Tyr139Cys),heterozygous; heterozygous,_Likely Pathogenic PATHOGENIC; PATHOGENIC,Positive
+1827471,Lab01,,PHEX,Partial Deletion (Exon 13),heterozygous,Likely Pathogenic,Positive
+1720741,Lab01,,PHEX,Partial Deletion (Exon 13),heterozygous,Likely Pathogenic,Positive
+1527114,Lab01,,PHEX,c.1936G>C (p.Asp646His),heterozygous,Likely Pathogenic,Positive
+1264658,Lab01,,CYP27B1; CYP27B1,c.1226C>T (p.Thr409Ile); c.413G>T (p.Arg138Leu),heterozygous; heterozygous,Likely Pathogenic; Uncertain Significance,Positive
+=== Resumen ===,Lab01,,,,,,Unknown
+Descripción,Lab01,,,,,,Unknown
+Order IDs únicos,Lab01,,,,,,Unknown
+Categoría,Lab01,,,,,,Unknown
+Total válidos (126),Lab01,,,,,,Unknown
+Duplicados detectados,Lab01,,,,,,Unknown
+Cancelados detectados,Lab01,,,,,,Unknown
+Pathogenic puros,Lab01,,,,,,Unknown
+Likely Pathogenic (solo),Lab01,,,,,,Unknown
+"Likely Pathogenic, Pathogenic",Lab01,,,,,,Unknown
+Total seleccionados finales (Pathogenic o mezcla sin duplicados/cancelados),Lab01,,,,,,Unknown
